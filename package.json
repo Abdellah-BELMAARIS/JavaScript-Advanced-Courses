@@ -1,0 +1,12 @@
+﻿{
+  "name": "javascript-fullstack-workspace",
+  "version": "1.0.0",
+  "description": "Frontend JavaScript learning & reference workspace for replacing Jinja2/Django SSR (Abdellah BELMAARIS)",
+  "type": "module",
+  "scripts": {
+    "dev": "node tools/mock-drf-server.mjs",
+    "mock-api": "node tools/mock-drf-server.mjs"
+  },
+  "author": "Abdellah BELMAARIS",
+  "license": "MIT"
+}

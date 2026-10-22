@@ -1,0 +1,11 @@
+﻿# Ignore heavy video course files
+javasciprt_lessons/*.mp4
+javasciprt_lessons/*.mkv
+javasciprt_lessons/*.zip
+
+# Dependencies & OS files
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+.env
